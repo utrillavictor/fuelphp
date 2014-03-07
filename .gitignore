@@ -1,0 +1,19 @@
+# ignore CHANGELOG.md
+CHANGELOG.md
+# ignore CONTRIBUTING.md
+CONTRIBUTING.md
+# ignore LICENCE.md
+LICENSE.md
+# ignore README
+README.md
+#ignore TESTING
+.htaccess
+TESTING.md
+.DS_Store
+docs/*
+fuel/core/*
+fuel/vendor/*
+fuel/LICENSE
+fuel/packages/*
+fuel/app/logs/*/*/*
+fuel/app/cache/*/*
